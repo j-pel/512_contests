@@ -6,6 +6,12 @@
 
 ; Copyleft 2004 by pelaillo
 
+; How to install in a VirtualBox machine
+; with a floppy raw image:
+
+; $ fasm locos.asm
+; $ sudo dd if=locos.bin of=/dev/fd0
+
 format binary
 org 07C00h
 use16

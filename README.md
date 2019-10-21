@@ -1,5 +1,9 @@
 # 512_contests
-512 bit assembly contest own submissions
+512 bytes assembly contest own submission.
+Use a VirtualBox machine with just a raw floppy disk image. Then copy the first 512 bytes to the raw image:
+```
+$ dd if=file.bin of=/dev/fd0
+```
 # LocOS
 This attempt at a bootable fasm IDE participated in a 512 bit contest held at the flat assembler board in 2004, finishing in third place.
 # NNew

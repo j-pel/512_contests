@@ -15,4 +15,4 @@ This attempt at a bootable fasm IDE with syntax highlighting for a 512 bytes con
 - LocOS runs properly on Bochs and on bare metal.
 
 # NNew
-This is an attempt prepared for the [https://contest.flatassembler.net/](20th anniversary of flat assembler) contest.
+This is an attempt prepared for the [20th anniversary of flat assembler](https://contest.flatassembler.net/) contest.
